@@ -4,7 +4,9 @@
 FaucetTokenは「FlutterとSolidityを使ってERC20トークンをメタマスクに送るアプリ」です。  
 Solidityは最新技術で、情報が英語でも存在しなかったので公式リファレンスを見ながら作りました。  
 後から作る人のために、作り方の記事を書きました。  
-https://qiita.com/KeiIT11/items/b73116e592fa41907d37
+
+記事URL: https://qiita.com/KeiIT11/items/b73116e592fa41907d37
+
 - 使用技術：Solidity, Dart, Flutter  
 - 開発期間：2週間  
 - 担当　　：全部  
