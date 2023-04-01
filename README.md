@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/81548811/229280709-88d64595-59c4-42b4-80f1-a72c6e7d1531.PNG" alt="connect metamask" width="30%"> <img src="https://user-images.githubusercontent.com/81548811/229280713-f5e8a52b-746d-488e-8e96-02c6dd0d0fbb.PNG" alt="verify" width="30%"> <img src="https://user-images.githubusercontent.com/81548811/229280716-ff340730-9368-4bfa-b3a1-d0e6688a19dc.PNG" alt="info" width="30%">
+<img src="https://user-images.githubusercontent.com/81548811/229280709-88d64595-59c4-42b4-80f1-a72c6e7d1531.PNG" alt="connect metamask" width="20%"> <img src="https://user-images.githubusercontent.com/81548811/229280713-f5e8a52b-746d-488e-8e96-02c6dd0d0fbb.PNG" alt="verify" width="20%"> <img src="https://user-images.githubusercontent.com/81548811/229280716-ff340730-9368-4bfa-b3a1-d0e6688a19dc.PNG" alt="info" width="20%">
 
 ## このプロジェクトについて
 FaucetTokenは「FlutterとSolidityを使ってERC20トークンをメタマスクに送るアプリ」です。  
